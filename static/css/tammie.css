@@ -1,0 +1,51 @@
+.background-white {
+    background-color: white;
+    height: 100%;
+    margin-left: 150px;
+    margin-right: 150px;
+}
+
+.background-image {
+    background-image: url(../images/nza_background.jpg);
+    height: 100%;
+}
+
+.container {
+    position: relative;
+    /* padding-left: 100; */
+    /* text-align: left; */
+    /* color: black; */
+    top: 15px;
+    left: 25px;
+    right: 25px;
+}
+
+a {
+    color: black;
+    text-decoration: underline;
+}
+
+.left {
+    position: absolute;
+    top: 8px;
+    left: 20px;
+    color: white;
+}
+
+ul {
+    list-style-type: none;
+    color: white;
+    position: absolute;
+    top: 50px;
+}
+
+.img {
+    border: 5px solid white;
+    position: absolute;
+    bottom: 0px;
+}
+
+
+/* .col-md-5 {
+    justify-content: space-between, space-around;
+}*/
