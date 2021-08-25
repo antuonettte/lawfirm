@@ -5,6 +5,9 @@
 li:hover{
     text-decoration: line-through;
 }
+body{
+    background-image: url(../images/nza_background.jpg);
+}
 
 hr{
     border-top: 1px solid white;
