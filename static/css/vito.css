@@ -1,0 +1,38 @@
+nav {
+    float: left;
+    width: 30%;
+    height: 300px;
+    background: rgb(59, 3, 3);
+    padding: 20px;
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+div {
+    border: 2px solid powderblue;
+}
+
+.attorney-image {
+    overflow: hidden;
+}
+
+.career-image {
+    overflow: hidden;
+}
+
+.test13 text-center {
+    background: linear-gradient(to bottom, #33ccff 0%, #ff99cc 100%);
+}
+
+.csub-jpg {
+    top: 50%;
+    left: 100%;
+    max-width: 480px;
+    width: 100%;
+    height: auto;
+    transform: translate(-50%, -50%);
+    display: block;
+}

@@ -1,0 +1,30 @@
+.test{
+    background-color: gray !important;
+}
+
+li:hover{
+    text-decoration: line-through;
+}
+
+hr{
+    border-top: 1px solid white;
+}
+
+.indent{
+    margin-left:30px;
+}
+
+.side-bar{
+    background: linear-gradient(180deg, rgba(177,0,0,1) 36%, rgba(139,28,0,1) 60%);
+    color: white !important;
+    padding-top: 2rem;
+}
+
+.active{
+    text-decoration: underline ;
+}
+
+.footer-nav-item{
+    text-decoration: none;
+    color: black !important
+}
